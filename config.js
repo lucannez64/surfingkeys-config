@@ -1,3 +1,9 @@
+// name: Hirew's surfingkeys config
+// author: thuanowa
+// license: GPL-3-or-later
+// upstream: https://git.klyt.eu/hirew/surfingkeys-config/raw/branch/main/config.js
+// blurb: All natural pine, faux fur and a bit of soho vibes for the classy minimalist with my own config
+
 settings.tabsThreshold = 5;
 
 const hintsCss =
