@@ -1,5 +1,5 @@
 // name: Hirew's surfingkeys config
-// author: thuanowa
+// author: hirew 
 // license: GPL-3-or-later
 // upstream: https://github.com/lucannez64/surfingkeys-config/blob/main/config.js
 // blurb: All natural pine, faux fur and a bit of soho vibes for the classy minimalist with my own config
